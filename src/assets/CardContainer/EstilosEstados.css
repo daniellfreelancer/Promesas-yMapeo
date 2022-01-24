@@ -1,0 +1,14 @@
+.btn-add {
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 255, 0.555);
+}
+
+.btn-add:hover {
+    background-color: rgb(157, 181, 228);
+}
+
+.items{
+    display: flex;
+    width: 250px;
+}
+

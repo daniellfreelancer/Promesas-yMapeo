@@ -1,0 +1,11 @@
+.boton-saludo {
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: aquamarine;
+
+}
+
+.boton-saludo:hover {
+    background-color: burlywood;
+    transform: scale(1.2);
+}

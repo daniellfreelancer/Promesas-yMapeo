@@ -1,0 +1,24 @@
+.items-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+
+  }
+
+  
+.barra-nav ul li {
+    list-style-type: none;
+    margin: 0px 50px;
+    padding: 15px 20px;
+    border-radius:25px;
+    }
+    
+    .navbar-brand {
+      font-size: 30px;  
+    }
+.barra-nav ul li:hover {
+        background-color: turquoise;
+}
+    
